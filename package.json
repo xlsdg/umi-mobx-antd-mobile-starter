@@ -6,7 +6,7 @@
     "lodash": "^4.17.11",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.3",
-    "mobx-state-tree": "^3.13.0",
+    "mobx-state-tree": "^3.14.0",
     "moment": "^2.24.0",
     "path-to-regexp": "^3.0.0",
     "prop-types": "^15.7.2",
@@ -35,10 +35,10 @@
     "stylelint": "^9.10.1",
     "stylelint-config-prettier": "^5.0.0",
     "stylelint-config-standard": "^18.2.0",
-    "stylelint-order": "^2.1.0",
-    "umi": "^2.6.11",
+    "stylelint-order": "^2.2.1",
+    "umi": "^2.6.12",
     "umi-plugin-mobx-state-tree": "^0.0.1",
-    "umi-plugin-react": "^1.7.2",
+    "umi-plugin-react": "^1.7.3",
     "vconsole-webpack-plugin": "^1.4.2"
   },
   "engines": {
