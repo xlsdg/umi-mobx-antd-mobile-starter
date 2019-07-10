@@ -3,7 +3,7 @@
     "antd-mobile": "^2.2.14",
     "axios": "^0.19.0",
     "classnames": "^2.2.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "mobx": "^5.11.0",
     "mobx-react": "^6.1.1",
     "mobx-state-tree": "^3.14.0",
@@ -33,9 +33,9 @@
     "stylelint-config-prettier": "^5.2.0",
     "stylelint-config-standard": "^18.3.0",
     "stylelint-order": "^3.0.0",
-    "umi": "^2.8.9",
+    "umi": "^2.8.10",
     "umi-plugin-mobx-state-tree": "^0.0.1",
-    "umi-plugin-react": "^1.9.8",
+    "umi-plugin-react": "^1.9.9",
     "vconsole-webpack-plugin": "^1.4.2"
   },
   "engines": {
