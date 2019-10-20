@@ -63,6 +63,7 @@
       {
         "forbid": ["id", "style"]
       }
-    ]
+    ],
+    "no-invalid-this": "off"
   }
 }
